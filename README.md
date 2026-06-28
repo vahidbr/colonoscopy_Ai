@@ -15,11 +15,14 @@ Preprocessing (resize, normalization)
    ↓  
 Feature Extraction:
    - Bag of Visual Words (BoVW)
-   - Handcrafted Features (HC)
+   -  ↓
+   Dimensionality Reduction:
+   - Autoencoder (AE)
+   -   ↓
    - Triple Embedding (TE)  
-   ↓  
-Dimensionality Reduction:
-   - Autoencoder (AE)  
+     ↓
+- Handcrafted Features (HC)
+
    ↓  
 Feature Fusion  
    ↓  
