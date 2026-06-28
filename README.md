@@ -107,5 +107,5 @@ This unified label space is used across all datasets to ensure consistency in tr
 1. Frame/image extraction from datasets  
 2. Image resizing and normalization  
 3. Dataset cleaning (removal of low-quality and duplicate images)  
-4. Label mapping to three classes  
+4. . Label mapping: conversion to three classes in PolypsSet and two classes in Kvasir dataset 
 5. Train/test split at image level (ensuring no overlap)  
