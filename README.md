@@ -88,6 +88,7 @@ This dataset was specifically built for the proposed 3-class classification task
 Reference:
 "Replication Data for: Colonoscopy Polyp Detection and Classification: Dataset Creation and Comparative Evaluations"
 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FCBUOR
 ---
 
 ## 📊 Class Definitions
